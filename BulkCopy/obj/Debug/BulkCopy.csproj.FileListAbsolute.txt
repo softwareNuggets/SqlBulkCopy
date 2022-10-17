@@ -1,0 +1,7 @@
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.exe.config
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.pdb
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.csproj.AssemblyReference.cache
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.csproj.CoreCompileInputs.cache
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.pdb
